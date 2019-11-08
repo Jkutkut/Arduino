@@ -1,2 +1,3 @@
 # Arduino
-Arduino based projects
+
+Here you will find Arduino based projects:
